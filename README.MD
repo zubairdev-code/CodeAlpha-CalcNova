@@ -97,7 +97,7 @@ calculator-project/
 Download or clone the project.
 
 ```bash
-git clone https://github.com/zubairdev-code/CodeAlpha-CalcNova.git
+git clone https://github.com/zubairdev-code/CodeAlpha-CalcNova
 ```
 
 ## Step 2
